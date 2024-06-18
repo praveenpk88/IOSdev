@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  sample app creation
 //
-//  Created by Reshma Nanjundan on 19/06/24.
+//  Created by Praveen Kumar S on 19/06/24.
 //
 
 import SwiftUI
@@ -13,7 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, world!")
+            Text("Hello, this is the my first IOS application. ")
         }
         .padding()
     }
